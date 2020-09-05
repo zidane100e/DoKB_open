@@ -1,0 +1,47 @@
+<!-- Not content, but for better presentation styles -->
+<style>
+.rise-enabled .rendered_html table.dataframe {
+    font-size: 10px;
+}
+.rise-enabled .reveal .slides {
+      .transition-all;
+      text-align: left;
+      font-size: 100%;
+}
+
+.rendered_html code {
+    background: #EFEFEF;
+    border: 1px solid #CCC;
+    padding: 1px 5px;
+    border-radius: 1px;
+}
+.rise-enabled .fa-times-circle:before,
+.rise-enabled .fa-question:before,
+.rise-enabled aside.controls {
+    opacity: 0.1;
+}
+.rise-enabled a,
+.rise-enabled a:active,
+.rise-enabled a:hover,
+.rise-enabled a:visited,
+.rise-enabled :link {
+    text-decoration: none;
+    color: #A68910;
+}
+
+div.inner_cell>div.text_cell_render.rendered_html>pre {
+    margin: 0px;
+
+}
+
+div.inner_cell>div.text_cell_render.rendered_html>pre>code {
+    font-size: 70%;
+}
+
+div.inner_cell{
+    border-width: 10px;
+    border-height: 10px;
+    
+}
+
+</style>```
